@@ -8,6 +8,8 @@ problem or code snippet in question, and the desired outcome (e.g.,
 explanation, debugging, optimization). Using specific keywords like
 "explain," "debug," "optimize," and "suggest alternatives for" can
 guide the LLM effectively.
+![image](https://github.com/user-attachments/assets/befc45e4-e10c-4ed0-8dbf-44e4c6b2f124)
+
  Concept: This application assists with coding tasks, going beyond
 basic code generation. It focuses on debugging, understanding
 complex code snippets, and suggesting improvements based on best
@@ -77,6 +79,8 @@ alternative solutions.
 heavily on the quality of the prompt and the complexity of the code.
 It's crucial to critically evaluate the suggestions provided.
 ## 2. The "Research Deep Dive" Application
+![image](https://github.com/user-attachments/assets/6e66b274-2a05-45d8-add4-7dcd7ec32227)
+
  Underlying Principles: Prompts for research should be specific
 about the topic, the type of information sought (summary,
 explanation, related concepts, future directions), and any constraints
